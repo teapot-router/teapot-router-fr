@@ -40,6 +40,7 @@ Guides pas à pas (inscription → première requête → dépannage) : [teapotr
 
 ## Ce que vous pouvez voir sur le site
 
+- [Calculateur de coûts gratuit (sans compte, tarifs en direct)](https://teapotrouter.com/fr/claude-code-cost-calculator) — abonnement vs paiement à l'usage
 - **Tarifs publics** — tarif de base et prix réellement payé pour chaque modèle, avec un endpoint JSON sans connexion ([`/api/pricing`](https://teapotrouter.com/api/pricing)) pour comparer par script
 - **Page de tarifs par modèle** — ex. [claude-opus-5-5](https://teapotrouter.com/fr/pricing/claude-opus-5-5)
 - **Guide tarifaire Claude Code** — abonnement vs à l'usage vs passerelle, avec le vrai calcul : [documentation](https://teapotrouter.com/fr/docs/claude-code-pricing)
