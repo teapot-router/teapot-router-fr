@@ -6,7 +6,7 @@
 
 Passerelle hébergée pour Claude Code, Codex CLI et les outils OpenAI SDK : changez deux variables d'environnement et tous vos outils de code IA passent par un seul endpoint, un seul solde, un registre de coûts par requête.
 
-[Commencer](https://teapotrouter.com/fr/register) · [Tarifs — publics, JSON lisible par machine](https://teapotrouter.com/api/pricing) · [Documentation](https://teapotrouter.com/fr/docs)
+[Commencer](https://teapotrouter.com/fr/register) · [Tarifs — publics, JSON lisible par machine](https://teapotrouter.com/api/pricing) · [Documentation](https://teapotrouter.com/fr/docs) · [État du service](https://teapotrouter.com/fr/status)
 
 </div>
 
